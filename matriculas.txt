@@ -1,6 +1,0 @@
-[
-    {
-        "codigo_turma": 12,
-        "codigo_estudante": 1
-    }
-]
